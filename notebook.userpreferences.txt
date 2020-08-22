@@ -1,0 +1,10 @@
+{
+    "codeCellConfig" : {
+        "fontFamily" : "Operator Mono Lig",
+        "fontSize" : 13,
+        "lineHeight" : 1.4
+    },
+
+    // extracted system font info
+    // BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif. MesloLGS NF
+}
